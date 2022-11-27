@@ -25,7 +25,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Turksih Bracelet",
+            "name": "Turkish Bracelet",
             "description": "Handmade traditional turkish bracelet.",
             "price": 50,
             "author_id": 1,
@@ -33,11 +33,11 @@
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
-            "description": "Brand new and high quality.",
-            "price": 180,
+            "name": "Turkish Earrings",
+            "description": "Handmade traditional turkish earrings.",
+            "price": 400,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Earring.jpeg"
         },
         {
             "id": 3,
