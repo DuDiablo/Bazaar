@@ -70,6 +70,14 @@
             "price": 100,
             "author_id": 2,
             "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Tea.jpg"
-        }
+        },
+         {
+            "id": 7,
+            "name": "Turkish Lamp",
+            "description": "Turkish Mosaic Lamp in 12 different colors. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/lamp.png"
+        }       
     ]
 }
