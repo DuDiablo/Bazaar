@@ -76,7 +76,7 @@
             "name": "Turkish Lamp",
             "description": "Turkish Mosaic Lamp in 12 different colors. ",
             "price": 400,
-            "author_id": 2,
+            "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/lamp.png"
         }, 
           {
@@ -92,7 +92,7 @@
             "name": "Turkish Scarf",
             "description": "Turkish Scarf in 56 different styles. ",
             "price": 150,
-            "author_id": 2,
+            "author_id": 1,
             "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Scarf.jpg"
         },
          {
@@ -108,7 +108,7 @@
             "name": "Turkish Vase",
             "description": "Turkish Vase in 12 different styles. ",
             "price": 600,
-            "author_id": 2,
+            "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Vase.jpg"
         },
           {
