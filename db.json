@@ -78,6 +78,46 @@
             "price": 100,
             "author_id": 2,
             "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/lamp.png"
-        }       
+        }, 
+          {
+            "id": 8,
+            "name": "Turkish Pillow",
+            "description": "Soft and Fluffy Turkish Pillow in 12 different colors and styles. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Pillow.jpg"
+        },  
+           {
+            "id": 9,
+            "name": "Turkish Scarf",
+            "description": "Turkish Scarf in 56 different styles. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Scarf.jpg"
+        },
+         {
+            "id": 10,
+            "name": "Turkish Delight",
+            "description": "Turkish Delight in 12 different flavors. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Sweets.jpg"
+        },  
+         {
+            "id": 11,
+            "name": "Turkish Vase",
+            "description": "Turkish Vase in 12 different styles. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/Vase.jpg"
+        },
+          {
+            "id": 12,
+            "name": "Turkish Towel",
+            "description": "Turkish Towel in 12 different styles. ",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/DuDiablo/Bazaar/main/img/towel.jpg"
+        }  
     ]
 }
